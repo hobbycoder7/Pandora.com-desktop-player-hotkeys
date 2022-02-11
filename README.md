@@ -14,5 +14,5 @@ For install information visit [Violentmonkey](https://violentmonkey.github.io/ge
 
 ### Change log  
 
-Version 1.0
+Version 1.0.0
 - initial release  
