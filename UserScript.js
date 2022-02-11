@@ -3,9 +3,10 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://www.pandora.com/*
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      hobbycoder7
 // @description keyboard short cuts to thumbs down, tired of track, thumbs up, and next track. J K L and N.
+// @downloadURL https://raw.githubusercontent.com/hobbycoder7/Pandora.com-desktop-player-hotkeys/main/UserScript.js
 // ==/UserScript==
 
 
